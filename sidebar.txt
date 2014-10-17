@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lhi:home|Door43 (lhi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lhi|d43-lhi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lhi/archive/master.zip|d43-lhi.zip]]
+
+**Recent Changes**
+{{changes>ns = lhi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lhi|Ethnologue data]]
+
